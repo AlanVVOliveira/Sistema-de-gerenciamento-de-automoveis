@@ -8,7 +8,6 @@ Sistema de gerenciamento de estoque de uma loja automobilística usando php, jav
 - XAMPP
 - MySQL Workbench ou phpMyAdmin
 - jQuery
-Download e Instalação: https://jquery.com/download/
 
 ## Instalação
 
