@@ -1,6 +1,6 @@
 # Sistema-de-gerenciamento-de-automoveis
 
-Sistema de gerenciamento de estoque de uma loja automobilística usando php, javascript e bootstrap5.
+Sistema de gerenciamento de veículos para loja automobilística usando php, javascript e bootstrap5.
 
 ## Pré-requisitos
 
